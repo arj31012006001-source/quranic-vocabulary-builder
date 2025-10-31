@@ -1,0 +1,5 @@
+{
+  "name": "Quranic Vocabulary Builder",
+  "description": "Learn the most frequent words in the Quran to build your vocabulary. Each word comes with its transliteration, meaning, an example verse, and repetition count, ordered from most frequent to least.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,7 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" rx="96" fill="#10b981"/>
+<path d="M144 128H368V160H144V128Z" fill="white"/>
+<path d="M144 352H368V384H144V352Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 96H384C392.837 96 400 103.163 400 112V400C400 408.837 392.837 416 384 416H128C119.163 416 112 408.837 112 400V112C112 103.163 119.163 96 128 96ZM144 176H368V208H144V176ZM144 240H368V272H144V240ZM144 304H368V336H144V304Z" fill="white"/>
+<text x="256" y="270" font-family="Noto Naskh Arabic, serif" font-size="120" fill="#10b981" text-anchor="middle" dominant-baseline="middle">ق</text>
+</svg>

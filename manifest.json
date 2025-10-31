@@ -1,0 +1,21 @@
+{
+  "short_name": "Quranic Vocab",
+  "name": "Quranic Vocabulary Builder",
+  "description": "Learn the most frequent words in the Quran with examples, translations, and progress tracking.",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#f8fafc"
+}
